@@ -1,0 +1,39 @@
+
+# Core
+streamlit
+pandas
+sqlalchemy
+openpyxl
+
+# LangChain Core + Tools
+langchain
+langchain-community
+langchain-core
+langchain-anthropic
+langchain-google-genai
+
+# Claude (Anthropic)
+anthropic
+
+# Google Gemini support
+google-generativeai
+
+# PostgreSQL + Redshift support
+psycopg2-binary
+
+# Optional: If you're working with UUID or JSON fields
+uuid
+
+# === LangGraph for stateful workflows ===
+langgraph
+
+# === Redshift / PostgreSQL connection ===
+psycopg2-binary
+
+# === Typing support (only needed for static type checking, optional) ===
+typing-extensions
+
+
+redis
+
+
